@@ -18,6 +18,5 @@ bio = {
     },
     'commitments': ('1/2 Hacker', '1/2 Bitcoin Trader'),
     'motto': 'Fcuk the system'
-    'profile_image': 'https://avatars.githubusercontent.com/u/143897501?v=4'
 
 }
